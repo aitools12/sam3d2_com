@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Hailuo3-0.github.io/sam3d2_com/sitemap.xml

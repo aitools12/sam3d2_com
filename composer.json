@@ -1,0 +1,27 @@
+{
+  "name": "aitools12/sam3d2_com",
+  "description": "Sam 3D 2.0 AI 3D model generator metadata package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.sam3d2.com",
+  "keywords": [
+    "sam3d2",
+    "sam-3d-2-0",
+    "ai",
+    "3d",
+    "generator"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sam3d2Com\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/aitools12/sam3d2_com",
+    "issues": "https://www.sam3d2.com",
+    "docs": "https://www.sam3d2.com"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
